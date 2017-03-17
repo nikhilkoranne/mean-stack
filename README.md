@@ -1,5 +1,6 @@
 # mean-stack
-This project is a simple seed project of MEAN stack(MongoDB-Express-AngularJS-Node.js)
+This project is a simple seed project of MEAN stack(MongoDB-Express-AngularJS-Node.js) with some cool online services integreated,
+and a much WIP.
 ## Installation of node packages and integreated services.
 - Installation of local node packages
     - `npm install`
